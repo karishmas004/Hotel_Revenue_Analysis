@@ -61,6 +61,8 @@ The dataset used in this project is a structured Excel file containing daily hot
 - Calculated KPIs (Revenue, Occupancy, RevPAR)  
 - Applied conditional formatting for heatmap visualization  
 
+
+![Click Here to view the DataSet](./Hotel_Revenue_Analytics_2024.xlsx)
 ---
 
 ## 📊 Dashboard Preview  
