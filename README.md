@@ -62,7 +62,7 @@ The dataset used in this project is a structured Excel file containing daily hot
 - Applied conditional formatting for heatmap visualization  
 
 ## DataSet
-![Click Here to view the DataSet](./Hotel_Revenue_Analytics_2024.xlsx)
+(./Hotel_Revenue_Analytics_2024.xlsx)
 ---
 
 ## 📊 Dashboard Preview  
