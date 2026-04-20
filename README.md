@@ -61,7 +61,7 @@ The dataset used in this project is a structured Excel file containing daily hot
 - Calculated KPIs (Revenue, Occupancy, RevPAR)  
 - Applied conditional formatting for heatmap visualization  
 
-
+Dataset Used: https://raw.githubusercontent.com/datasets/s-and-p-500/master/data/data.csv
 ---
 
 ## 📊 Dashboard Preview  
@@ -69,14 +69,16 @@ The dataset used in this project is a structured Excel file containing daily hot
 ### 🏨 Main Dashboard  
 ![Main Dashboard](./Dashboard.png)  
 
+### 📄 Raw Dataset  
+![Raw Data](./Raw_Data.png)  
+
+
 ### 🔥 Occupancy Heatmap  
 ![Heatmap](./Heatmap.png)  
 
 ### 📊 Monthly Summary Table  
 ![Monthly Summary](./Monthly_Summary.png)  
 
-### 📄 Raw Dataset  
-![Raw Data](./Raw_Data.png)  
 
 ---
 
