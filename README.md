@@ -65,9 +65,25 @@ The dataset used in this project is a structured Excel file containing daily hot
 
 ## 📊 Dashboard Preview  
 
-![Dashboard](./Dashboard.png)  
+### 🏨 Main Dashboard  
+![Main Dashboard](./Dashboard.png)  
+
+### 🔥 Occupancy Heatmap  
 ![Heatmap](./Heatmap.png)  
+
+### 📊 Monthly Summary Table  
 ![Monthly Summary](./Monthly_Summary.png)  
+
+### 📄 Raw Dataset  
+![Raw Data](./Raw_Data.png)  
+
+---
+
+## 🌐 Live Dashboard  
+
+👉 https://onedrive.live.com/your-dashboard-link-here  
+
+> Replace the link above with your shared Excel/OneDrive link
 
 ---
 
